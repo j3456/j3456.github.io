@@ -14,12 +14,12 @@ p {
   padding: 3rem;
 }
 
-.col-sm-8 {
+#green {
   background-color: #339966;
   color: #FFCD90;
 }
 
-.col-sm-4 {
+#orange {
   background-color: #FFBF70;
   color: #9B254F;
 }
