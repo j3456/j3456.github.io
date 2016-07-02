@@ -3,6 +3,11 @@
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
+p {
+  font-size: 2rem;
+}
+
 .col-sm-8 {
   background-color: #339966;
+  color: #FFCD90;
 }
