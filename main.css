@@ -11,3 +11,8 @@ p {
   background-color: #339966;
   color: #FFCD90;
 }
+
+.col-sm-4 {
+  background-color: #FFBF70;
+  color: #9B254F;
+}
