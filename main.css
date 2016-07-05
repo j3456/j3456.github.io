@@ -11,7 +11,7 @@ body {
 
 figure {
   border-style: solid;
-  border-radius: 5px;
+  border-radius: 1rem;
 }
 
 p {
@@ -28,7 +28,7 @@ p {
 #orange {
   background-color: #FFBF70;
   color: #BF406D;
-  border-color: #DA9949;
+  border-color: #BE7A26;
 }
 
 #pink {
