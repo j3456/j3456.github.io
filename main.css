@@ -11,7 +11,7 @@ body {
 
 figure {
   border-style: solid;
-  border-color: black;
+  border-radius: 5px;
 }
 
 p {
@@ -22,14 +22,17 @@ p {
 #green {
   background-color: #339966;
   color: #FFCD90;
+  border-color: #1A864F;
 }
 
 #orange {
   background-color: #FFBF70;
   color: #BF406D;
+  border-color: #975A0E;
 }
 
 #pink {
   background-color: #EE87AB;
   color: #339966;
+  border-color: #A72150;
 }
